@@ -5,8 +5,6 @@ export const GamePlayMainContainer = styled.div`
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  height: 100vh;
-  width: 100vw;
   background-color: #223a5f;
   padding: 20px;
 `
